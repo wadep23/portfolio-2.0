@@ -1,8 +1,10 @@
 # Portfolio 2.0
 
+<<<<<<< HEAD
+
 ## Description
 
-This is a professional React designed portfolio to demonstarte my skills with React.
+This is a professional React designed portfolio to demonstrate my skills with React.
 
 ## Table of Contents
 
@@ -13,7 +15,7 @@ This is a professional React designed portfolio to demonstarte my skills with Re
 
 ## Installation
 
-Visit my remote repo and pull to local machine, install dependencaies by running the npm i command from the terminal.
+Visit my remote repo and pull to local machine, install dependencies by running the npm i command from the terminal.
 
 ## Usage
 
@@ -22,6 +24,33 @@ This application is for marketing purposes only.
 ## Credits
 
 N/A
+
+=======
+
+## Description
+
+This is a professional React designed portfolio to demonstrate my skills with React.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+Visit my remote repo and pull to local machine, install dependencies by running the npm i command from the terminal.
+
+## Usage
+
+This application is for marketing purposes only.
+
+## Credits
+
+N/A
+
+> > > > > > > e58586a621ea920585c327365c29a6134596d2ff
 
 ## License
 
