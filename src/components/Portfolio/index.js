@@ -23,7 +23,7 @@ function Portfolio() {
       <div className="container image">
         <a
           data-testid="link"
-          href="https://github.com/wadep23/photo-port"
+          href="https://github.com/wadep23/entertain-me-redux"
           target="_blank"
           rel="noreferrer"
         >
